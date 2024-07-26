@@ -1,0 +1,34 @@
+/*Implementação de Banco de Dados com MySQL*/
+/*1. Criar Arquivo com Nome govdf*
+/*2. Criar Tabela com nome remuneracao_2013_01*/
+/*3. Inserir 500 registros por grupos extraindo informaçoes das planilhas disponibilizadas no github*/ 
+
+
+insert into remuneracao_2013_01
+(NOME,CPF_FORMATADO,DC_EMPRESA,DC_CARGO,DC_FUNCAO<DC_GRUPO_SITFUNC,CO_MES_REFERENCIA,CO_EXERCICIO<VL_LIQUIDO)
+values
+('Carlos Silva','99999999999','Senac DF', 'Instrutor de TI III', 'Instrutor', 'Ativo',07,2024,2000.00),
+('Adailson Borges Arouca','***748361**','Senac DF', 'Secretaria de Estado de Saude', 'Auxiliar de Enfermagem', 'Ativo',05,2013,2000.00),
+('ABRAAO CAVALCANTE LIMA','***542181**','Senac DF', 'SECRETARIA De Estado De Educacao,Esporte e Lazer DF', 'PROFESSOR DE EDUC. BASICA', 'GERENTE', 'Ativo',05,2013,2000.00),
+('ABRAAO DA SILVA QUEIROZ','***435951**','Senac DF', 'Secretaria De ESTADO DE EDUCACAO,ESPORTE E LAZER DF','Agente de Segurança', 'AGENTE', 'Ativo',05,2013,2000.00),
+('Abraao De Oliveira Barros','***091063**','Senac DF', Companhia Urbanizadora Da Nova Capital Do Brasil', 'Auxiliar De Servicos Gerais', 'Ativo', 'Aposentado',05,2013,2000.00),
+('ABRAAO FAUSTINO DE LIMA','***275907**','Senac DF','SECRETARIA DE ESTADO DE SAUDE', 'AUXILIAR DE ENFERMAGEM', 'Aposentado', ,05,2013,2000.00),
+('ABRAAO GOMES DE BARROS','***851481**','Senac DF','SECRETARIA DE ESTADO DE EDUCACAO,ESPORTE E LAZER DF ', 'AGENTE GE CONS LIMP', 'Funcionario', 'Ativo',05,2013,4443,83),
+('ABRAAO GUIMARAES DA SILVEIRA','***232931**','Senac DF','SECRETARIA DE ESTADO DE POLITICAS CRIANCAS, ADOLESCENTES E JUVENTUDE', 'TEC.ASS.SOCIAL - MOTORISTA', 'Ativo', '05',2013,6313,91),
+('ABRAAO JOSE DA ROCHA','***692571**','Senac DF' 'Secretaria de Estado de Saude', 'AUXILIAR DE ENFERMAGEM', 'Ativo', 05,2013,4492,56),
+('ABRAAO JUNIO DOS SANTOS VASQUES','***467731**','Senac DF' 'INSTITUTO DE PREVIDENCIA DOS SERVIDORES DO DISTRITO FEDERAL', 'AUX. DESENV. FISCALIZ. AGROP', 'Pensao', '05',2013,1964,75),
+('ABRAAO LINCOLN ALVES VIEIRA', '***590961**','Senac DF' 'SECRETARIA DE ESTADO DE EDUCACAO,ESPORTE E LAZER DF', 'AGENTE GE COPA E COZINHA', 'Ativo', '05',2013,4042,66,),
+('ABRAHAO DAVID DE JESUS SANTOS', '***304551**', 'Senac DF' 'SECRETARIA DE ESTADO DE SAUDE', 'AOSD - PAT. CLINICA', 'Ativo', 05,2013,2229,79,),
+('ABRAHAO DE CASTRO FILHO', '***019461**', 'Senac DF' 'POLICIA MILITAR DO DISTRITO FEDERAL', '3 SARGENTO PM INATIVO','Aposentado', 05,2013,300,),
+('ABRAHAO FERREIRA FEITOSA', '***019461**', 'Senac DF' 'SECRETARIA DE ESTADO DE SAUDE ', 'PSICOLOGO', 'Ativo', 05,2013,4500,11,),
+('ABRAHAO GOMES XAVIER', '***038601**', 'Senac DF', 'SECRETARIA DE ESTADO DE EDUCACAO,ESPORTE E LAZER DF', 'AGENTE GE VIGILANCIA ', 'Ativo', '05',4024,28,),
+('ABRAHAO INACIO DOS SANTOS', '***220831**', 'Senac DF', 'SOCIEDADE DE TRANSPORTES COLETIVOS DE BRASILIA LTDA.', 'SUPERVISOR DE OFICINA', '', ,,,,),
+('', '', '', '', '', '', ,,,,),
+('', '', '', '', '', '', ,,,,),
+('', '', '', '', '', '', ,,,,),
+('', '', '', '', '', '', ,,,,),
+
+
+
+
+
